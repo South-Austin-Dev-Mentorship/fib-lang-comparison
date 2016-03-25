@@ -1,5 +1,3 @@
-import netscape.javascript.JSObject;
-
 class Fib {
 
     public static int fib(int n) {
