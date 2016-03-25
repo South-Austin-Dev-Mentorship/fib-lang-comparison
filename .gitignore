@@ -1,3 +1,5 @@
 /cpp/fib
 /c/fib
 /java/Fib.class
+/luaffi/*.o
+/luaffi/*.so
