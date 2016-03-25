@@ -8,5 +8,6 @@ function fib(n) {
     }
 }
 
-console.log( fib(10) );
+var a = parseInt(process.argv[2]);
+console.log( fib(a) );
 
