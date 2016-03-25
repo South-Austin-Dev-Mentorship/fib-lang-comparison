@@ -5,4 +5,4 @@ int fib(int);
 local libfib = ffi.load("fib")
 
 a = arg[1]
-print(libfib.fib(a))
+print(libfib.fib(tonumber(a)))
