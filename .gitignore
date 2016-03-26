@@ -3,3 +3,5 @@
 /java/Fib.class
 /luaffi/*.o
 /luaffi/*.so
+/lisp-ffi/libfib.dylib
+/luaffi/lua/libfib.dylib
