@@ -7,3 +7,4 @@
 /lisp-ffi/libfib.so
 /lisp-ffi/fib.o
 /luaffi/lua/libfib.dylib
+/go/fib
