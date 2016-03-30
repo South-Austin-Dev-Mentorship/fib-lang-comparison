@@ -4,5 +4,8 @@
 /luaffi/*.o
 /luaffi/*.so
 /lisp-ffi/libfib.dylib
+/lisp-ffi/libfib.so
+/lisp-ffi/fib.o
 /luaffi/lua/libfib.dylib
 *.dSYM/
+/go/fib
