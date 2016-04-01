@@ -1,0 +1,16 @@
+Haskell
+=======
+
+Notes
+-----
+* Doesn't take a command line argument yet
+* Can be run in the interactive interpreter (slow) using `ghci fib.hs`
+* Or can be compiled (slow) using `ghc fib.hs` and then `./fib`
+* Can be optimized with `-O`, `-O2` or `-Odph`.  `-Odph` seems fastest.
+  DPH stands for Data Parallel Haskell.
+
+To do
+-----
+* Take arguments from command line
+* Add to `test.sh`
+
