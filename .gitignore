@@ -9,3 +9,4 @@
 /luaffi/lua/libfib.dylib
 *.dSYM/
 /go/fib
+/rust/fib
